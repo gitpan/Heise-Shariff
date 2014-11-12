@@ -1,0 +1,28 @@
+---
+abstract: unknown
+author:
+  - 'Philipp Busse <pmb@heise.de>'
+build_requires:
+  ExtUtils::MakeMaker: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.140640'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Heise-Shariff
+no_index:
+  directory:
+    - t
+    - inc
+    - t
+requires:
+  Mojolicious: '5.0'
+  perl: '5.010001'
+resources:
+  bugtracker: https://github.com/heiseonline/shariff-backend-perl/issues
+  homepage: http://www.heise.de
+  repository: https://github.com/heiseonline/shariff-backend-perl.git
+version: '1.01'
